@@ -2,7 +2,7 @@
 
 # README
 
-This is an android sample to learn dagger2 with Android
+This is an android sample to learn dagger2.2 using in Android Framework
 
 İmplemented to Kotlin from Java
 
