@@ -8,4 +8,4 @@ This is an android sample to learn dagger2 with Android
 
 ## Actual project link
 
-<a href="https://github.com/mitchtabian/Dagger-Examples">https://en.wikipedia.org/wiki/Pomodoro_Technique</a>
+<a href="https://github.com/mitchtabian/Dagger-Examples">https://github.com/mitchtabian/Dagger-Examples</a>
